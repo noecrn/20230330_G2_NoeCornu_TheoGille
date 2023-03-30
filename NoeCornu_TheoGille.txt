@@ -1,14 +1,12 @@
 # Jeu de tir en réalité augmentée  
 
-Ce projet est un jeu de tir en réalité augmentée, où le joueur doit déplacer son téléphone pour trouver et détruire des cibles en mouvement. Le jeu dispose de deux modes différents : un mode chronométré, où le joueur doit détruire un certain nombre de cibles dans un temps imparti, et un mode sandbox sans limite de temps.
+Ce projet est un jeu de tir en réalité augmentée, où le joueur doit déplacer son téléphone pour trouver et détruire des cibles en mouvement. Le jeu dispose de deux modes différents : un mode chronométré, où le joueur doit détruire des cibles dans un temps imparti, et un mode sandbox sans limite de temps.
 
 ## Fonctionnalités  
 * Les joueurs peuvent choisir entre deux modes de jeu : chronométré et sandbox
-* Dans le mode chronométré, les joueurs doivent détruire un certain nombre de cibles dans un temps imparti pour gagner
+* Dans le mode chronométré, les joueurs doivent détruire des cibles dans un temps imparti pour gagner
 * Dans le mode sandbox, les joueurs peuvent détruire des cibles à l'infini sans limite de temps
 * La scène de jeu contient un timer pour afficher le temps restant dans le mode chronométré
-* Un compteur affiche le nombre de cibles détruites
-* Un son de tir de fusil est joué lorsqu'une cible est détruite
 * Un fusil en 3D est fixé à la caméra pour simuler un jeu de tir à la première personne en AR
 * Des particules apparaissent lors de la destruction d'une cible
 
